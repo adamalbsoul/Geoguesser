@@ -1,4 +1,6 @@
 ![logo](../master/public/img/icons/android-icon-36x36.png) Geoguess
+
+Deployed on [Netlify](https://master--splendid-torte-7dcbd4.netlify.app/)
 ===
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/GeoGuess/GeoGuess)](https://github.com/GeoGuess/Geoguess/releases) 
